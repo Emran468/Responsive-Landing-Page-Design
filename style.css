@@ -92,11 +92,11 @@ body{
     flex:1;
     max-width: 600px;
     height: 300px;
-    background-image: url(images/background.jpg);
+    background-image: url(images/background.png);
     border-radius: 50px;
     display: flex;
     
-    color: #666;
+    color:#c8d6e5;
     border: 1px solid #ccc;
   }
 
